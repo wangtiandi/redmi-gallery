@@ -1,0 +1,7 @@
+.DS_Store
+*.bak-*
+*.log
+/tmp/
+# 编译中间产物
+*.dSYM/
+*.o
